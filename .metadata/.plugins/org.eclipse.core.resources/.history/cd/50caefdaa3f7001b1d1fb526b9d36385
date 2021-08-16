@@ -1,0 +1,54 @@
+package com.syntax.class09;
+
+public class Task {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	//*create an array of chars and store grades into it ;A,B,C,D,E,F.	
+	//Then print a grade B
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	//create an array of names and store all names from your group
+	//Then print your name from that array
+		
+		String[] syntaxfc = new String[8];
+		names[0] = "Jose";
+		names[1] = "Sule";
+		names[2] = "Blake";
+		names[3] = "Ana";
+		names[4] = "Enes";
+		names[5] = "Andrei";
+		names[6] = "Burju";
+		names[7] = "Gurkan";
+		System.out.println(syntaxfc[0]);
+
+E
+	}
+}
+
+
+
+
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

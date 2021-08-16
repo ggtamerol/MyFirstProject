@@ -1,0 +1,47 @@
+package com.syntax.class10;
+
+public class HW {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+//Create 2D array of cars : american, german, korean, italian. Then retrieve all values from 
+//that array using 2 different loops
+		
+String[][] cars= {{"Honda","Ford","Tesla","Toyota"},{"Mercedes","Audi","BMW","Porsche"},{"Kia","Chevroler" ,"Hyundai" },
+				{"Ferrari","Lamborghini","Maserati"}};
+					
+		
+		for(int i=0 ; i<cars.length;i++) {
+		for(int j=0 ; j<cars[i].length;j++) {
+		if(i>=0) {
+			System.out.print(cars[i][j]+" ");}
+
+			
+			
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+//Using 2D array create a grocery list.
+//Inside you should have an array of veggies, fruits, dairy and sweets. Retrieve all values from that array using 2 different loops
+
+
+	}
+
+}

@@ -1,0 +1,26 @@
+package com.syntax.reviewclass4;
+
+public class NestedLoops {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		//11111
+		//22222
+        //33333
+		//44444
+		//55555
+		
+		//54321
+		//54321
+		//54321
+		//54321
+		
+ for (int j=0; j<5; j++) {	
+ for (int i=1; i<6 ;  i++)	{
+		
+		System.out.print(i);
+	
+
+}}}}

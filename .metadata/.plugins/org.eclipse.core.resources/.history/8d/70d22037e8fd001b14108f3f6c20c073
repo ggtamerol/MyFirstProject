@@ -1,0 +1,25 @@
+package com.syntax.class12;
+
+public class groupTask8 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+//Write a java program to find the second largest number in the array?
+		
+	
+		int [] array={10,5,3,-5,15};
+		
+		int largest=array[0];
+		int smallest=array[0];
+		for(int i=1; i <array.length ; i++)	{
+		if(array[i]>largest) {
+		largest=array[i];
+	
+		}}
+	
+	System.out.println(largest);
+	
+	}
+
+}
