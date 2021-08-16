@@ -25,9 +25,12 @@ public class groupTask6 {
   System.out.println(sumOfPreviousAndCurrent);	
 		
   previousNumber=currentNumber;
-  currentNumber=sumOfPreviousAndCurrent;}
+  currentNumber=sumOfPreviousAndCurrent;
 	
 	
-  System.out.println("***************************** ");
 	
+	
+
+	}
+
 }}
