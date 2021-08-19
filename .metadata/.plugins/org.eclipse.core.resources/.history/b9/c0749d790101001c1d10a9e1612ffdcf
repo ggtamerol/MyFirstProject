@@ -1,0 +1,22 @@
+package com.syntax.class14;
+
+public class HWTester {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		
+	HW hw=new HW ();	
+		
+	hw.Info ("","","");
+	
+	hw.Info ("ggtsmerol","123","null");
+	
+	
+	
+		
+
+	}
+
+}

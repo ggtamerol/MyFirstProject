@@ -1,0 +1,22 @@
+package com.syntax.class13;
+
+public class Largest {
+
+		
+//Create a method that will take 2 parameters as a numbers and prints which number is larger
+		
+		public int largestValue(){
+			
+			  int largestNum;
+			  int[] nums = new int[10];
+			  for (int n = 0; n < nums.length; n++){
+			    int x = (int) (Math.random() * 7);
+			    nums[n] = x;
+			    largestNum = nums[0];
+			    if (largestNum < nums[n]){
+			      largestNum = nums[n];
+			    }
+			  }
+  
+  
+	}}

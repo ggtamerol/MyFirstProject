@@ -1,0 +1,22 @@
+package com.syntax.class13;
+
+public class Largest {
+
+		
+//Create a method that will take 2 parameters as a numbers and prints which number is larger
+			
+void  bigger(int number1,int number2) {
+	
+if (number1>number2) {
+	
+	System.out.println(number1);}
+
+	else {
+		System.out.println(number2);}
+
+
+}}
+
+
+
+	

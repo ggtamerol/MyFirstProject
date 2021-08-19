@@ -1,0 +1,42 @@
+package com.syntax.class13;
+
+public class Student {
+	
+	String name;
+	String id;
+	int age;
+	char gender;
+	double tuttition;
+	String school;
+	
+	void study() {
+	System.out.println(name +"studies in "+school);}
+	
+	void payTuition() {
+	System.out.println(name +" pay "+ tuttition);}
+		
+		
+	
+	
+	
+	public static void main(String[] args) {
+	
+	Student Micheal=new Student();
+	Micheal.name="Michael";
+	Micheal.id="123";
+	Micheal.gender='M';
+	Micheal.school="Syntax";
+	Micheal.study();
+	Micheal.payTuition();
+	
+	
+	
+	
+	
+		
+		
+		
+
+	}
+
+}

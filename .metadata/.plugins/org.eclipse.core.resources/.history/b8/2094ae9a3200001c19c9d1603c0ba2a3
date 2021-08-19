@@ -1,0 +1,14 @@
+package com.syntax.class13;
+import java.util.Scanner;
+public class LrgestTester {
+	
+
+		public static void main(String[] args) {
+			
+		Largest methods=new largest();
+		int results=methods.getMax(12,20);
+		System.out.println();
+		
+	 
+		
+}}

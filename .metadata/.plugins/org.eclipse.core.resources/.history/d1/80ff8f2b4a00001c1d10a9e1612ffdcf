@@ -1,0 +1,34 @@
+package com.syntax.class13;
+
+public class MethodsHW2 {
+	
+	
+	//Create a method createEmail(). Based on values of users name, lastName and email type, your method should return complete email Address. 
+	
+
+	
+	String usersName,Lastname,emailType;
+	
+    void emailAddress() {
+		
+	System.out.println(usersName+Lastname+emailType+".com");}
+
+	public static void main(String[] args) {
+	
+
+		MethodsHW2 John= new MethodsHW2();
+		John.Lastname	="Snow";
+		John.emailType="gmail";
+		
+		
+		MethodsHW2 Ayse= new MethodsHW2();
+		Ayse.Lastname ="Gezer";
+		Ayse.emailType="hotmail";
+		
+		
+		
+		
+		
+		
+		
+}}

@@ -1,0 +1,22 @@
+package com.syntax.class13;
+
+public class Greetings {
+	
+	void sayHello() {
+	System.out.println("Hello Batcch 10");
+	System.out.println("Hello Batcch 10");
+	System.out.println("Hello Batcch 10");}
+
+
+
+public static void main(String[] args) {
+	
+	System.out.println("Line in the main method");
+    Greetings greeting=new Greetings();
+    greeting.sayHello();
+    System.out.println("Line after the method call");
+	
+	
+	
+	
+}}

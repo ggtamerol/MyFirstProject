@@ -1,0 +1,22 @@
+package com.syntax.class13;
+
+public class HW {
+
+	
+		
+//Create a method that will take 2 parameters as a numbers and prints which number is larger
+		
+		
+	public static void main(String[] args) {
+			
+	 Printer(5, 20);}
+	
+	 public static void Printer (int num1, int num2) {
+	
+	 int largest=0;	 
+	 for (int i=num1; i<largest; i++) {
+	 System.out.println(largest);
+	
+
+
+}}}

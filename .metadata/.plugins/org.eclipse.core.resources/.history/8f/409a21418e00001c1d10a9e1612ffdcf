@@ -1,0 +1,16 @@
+package com.syntax.class14;
+
+public class StringMethodDemo3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		String longStr="This class is easy";
+		System.out.println(longStr.startsWith("y"));
+		System.out.println(longStr.startsWith("easy"));
+		System.out.println(longStr.startsWith("This class is easy"));
+	
+	
+	}
+
+}

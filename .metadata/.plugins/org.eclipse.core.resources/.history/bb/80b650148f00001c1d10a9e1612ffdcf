@@ -1,0 +1,22 @@
+package com.syntax.class14;
+
+public class StringMethodDemo3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		String longStr="This class is easy";
+		System.out.println(longStr.endsWith("y"));
+		System.out.println(longStr.endsWith("easy"));
+		System.out.println(longStr.endsWith("This class is easy"));
+	
+	//
+		
+		
+		System.out.println(longStr.contains("class "));	
+		System.out.println(longStr.contains("hello "));	
+		
+		
+	}
+
+}

@@ -1,0 +1,17 @@
+package com.syntax.class13;
+
+public class LrgestTester {
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		
+	Largest taskOne=new Largest();
+	taskOne.bigger(20,70);
+	
+	
+		
+	}}
+	
+	

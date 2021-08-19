@@ -1,0 +1,12 @@
+package com.syntax.class13;
+
+public class Greetings {
+	
+	void sayHello() {
+	System.out.println("Hello Batcch 10");
+	System.out.println("Hello Batcch 10");
+	System.out.println("Hello Batcch 10");
+
+	}
+
+}

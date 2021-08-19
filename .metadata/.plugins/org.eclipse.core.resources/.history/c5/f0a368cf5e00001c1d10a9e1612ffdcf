@@ -1,0 +1,29 @@
+package com.syntax.class13;
+
+public class PrimeOrNot {
+
+//Write a method to return whether given number is prime or not?
+	
+String prime (int num) {
+String result=null ;
+
+for (int i=2; i<=num; i++ ) {
+	
+if(num%i==0) {
+result ="not prime";break;}
+
+else result="prime";}
+
+return result;}}
+
+
+
+	
+	
+
+	
+	
+	
+	
+	
+	

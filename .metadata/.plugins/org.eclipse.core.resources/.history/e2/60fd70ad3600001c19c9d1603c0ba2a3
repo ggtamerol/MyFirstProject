@@ -1,0 +1,15 @@
+package com.syntax.class13;
+
+public class LrgestTester {
+	
+public static void main(String[] args) {
+	
+	Largest large=new Largest ();
+	
+			
+	int sum =large.bigger(10,20);
+	System.out.println( );
+	
+	
+	
+}}

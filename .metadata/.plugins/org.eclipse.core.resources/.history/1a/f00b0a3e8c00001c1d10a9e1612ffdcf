@@ -1,0 +1,28 @@
+package com.syntax.class14;
+
+public class StringMethodsDemo2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		//is Empty ()
+		
+		String name="Batch 10 ";
+		System.out.println(name.isEmpty());
+		name="";
+		System.out.println(name.isEmpty());
+		name=" ";
+		System.out.println(name.isBlank());
+		
+		
+		
+		
+		
+		
+	 //
+		String str="           Hi there                ";
+
+	}
+
+}
